@@ -21,13 +21,13 @@ This is a simple Bank Management System implemented in Python. The system allows
 ## Installation
 1. **Clone the repository**:
 
-   git clone https://github.com/yourusername/bank-management-system.git
+   git clone https://github.com/nirmitkotadiya/Bank-Management-System.git
 
-   cd bank-management-system
+   cd Bank-Management-System
 
 2. **Run the Application**:
 
-   python bank_management_system.py
+   python Bank-Management-System.py
 
 
 
@@ -41,7 +41,7 @@ This is a simple Bank Management System implemented in Python. The system allows
 
 ## File Structure
 
-- **bank_management_system.py**:  The main Python program implementing the Bank Management System.
+- **Bank_System.py**:  The main Python program implementing the Bank Management System.
 - **accounts.data**: The data file where account information is stored using pickling.
 - **README.md**: This documentation file.
 

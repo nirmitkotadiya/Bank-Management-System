@@ -21,9 +21,9 @@ This is a simple Bank Management System implemented in Python. The system allows
 ## Installation
 1. **Clone the repository**:
 
-  git clone https://github.com/yourusername/bank-management-system.git
+   git clone https://github.com/yourusername/bank-management-system.git
 
-  cd bank-management-system
+   cd bank-management-system
 
 2. **Run the Application**:
 
